@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shivanshsuhane/Desktop/code/CS283/G1/main.c
+stdio.h
+-
+stdlib.h
+-
+MacTypes.h
+-
+string.h
+-
+
